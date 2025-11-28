@@ -1,0 +1,17 @@
+.row img {
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+}
+.icon {
+    padding: 5px;
+    font-size: 25px;
+}
+
+.navbar-brand {
+    padding: 5px;
+}
+
+.btn-success{
+    margin: 5px;
+}
